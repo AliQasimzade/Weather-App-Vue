@@ -2,7 +2,6 @@ module.exports = {
   transpileDependencies: [
     'vuetify'
   ],
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/Vue-Weather-App/'
-    : '/'
+  publicPath: '/Vue-Weather-App/'
+  
 }
