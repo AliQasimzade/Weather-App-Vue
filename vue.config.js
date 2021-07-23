@@ -1,7 +1,3 @@
 module.exports = {
-  transpileDependencies: [
-    'vuetify'
-  ],
-  publicPath: '/Vue-Weather-App/'
-  
-}
+  transpileDependencies: ["vuetify"],
+};
